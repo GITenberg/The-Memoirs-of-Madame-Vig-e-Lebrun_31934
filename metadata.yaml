@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25622
     wikipedia: http://en.wikipedia.org/wiki/%C3%89lisabeth-Louise_Vig%C3%A9e-Le_Brun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31934#The-Memoirs-of-Madame-Vig-e-Lebrun
 gutenberg_issued: '2010-04-10'
 gutenberg_type: Text
 identifiers:
