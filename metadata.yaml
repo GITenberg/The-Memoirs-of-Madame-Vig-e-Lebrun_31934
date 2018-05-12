@@ -1,0 +1,40 @@
+_repo: The-Memoirs-of-Madame-Vig-e-Lebrun_31934
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Strachey, Lionel
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '25759'
+    url: http://www.gutenberg.org/2009/agents/25759
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vigée-Lebrun, Louise-Elisabeth
+    aliases:
+    - Vigee-Lebrun, Louise-Elisabeth
+    - Lebrun, Marie Louise Elisabeth Vigée
+    - Vigée-Lebrun, Marie Louise Elisabeth
+    birthdate: 1755
+    deathdate: 1842
+    gutenberg_agent_id: '25622'
+    url: http://www.gutenberg.org/2009/agents/25622
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89lisabeth-Louise_Vig%C3%A9e-Le_Brun
+description: ''
+gutenberg_issued: '2010-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Vigée-Lebrun, Louise-Elisabeth, 1755-1842'
+- !lcsh 'Portrait painting, French -- 18th century'
+- !lcsh 'Painters -- France -- Biography'
+title: The Memoirs of Madame Vigée Lebrun
+url: http://www.gutenberg.org/ebooks/31934
